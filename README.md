@@ -58,5 +58,87 @@ Understand your financial habits and improve savings
 - Frontend: HTML, CSS  
 - Backend: Python  
 - AI Integration: API Ready  
-- Environment: Virtual Environment  
+- Environment: Virtual Environment
+
+## 🚀 Getting Started
+
+### Clone Repository
+git clone https://github.com/your-username/taxnudge-ai.git  
+cd taxnudge-ai  
+
+### Setup Backend
+cd backend  
+python -m venv venv  
+venv\Scripts\activate  
+pip install -r requirements.txt  
+
+### Run Server
+python main.py  
+
+### Open Frontend
+frontend/index.html  
+
+---
+
+## 🔐 Environment Variables
+
+Create a `.env` file inside backend:
+
+API_KEY=your_api_key_here  
+
+---
+
+## 🎯 Target Users
+
+- Freelancers  
+- Auto drivers  
+- Shopkeepers  
+- Independent professionals  
+
+---
+
+## 📊 Impact
+
+- Encourages daily savings  
+- Reduces ITR penalties  
+- Improves financial planning  
+- Simplifies tax understanding  
+
+---
+
+## 🔮 Future Enhancements
+
+- Mobile application  
+- Analytics dashboard  
+- Smart reminders  
+- Automated ITR filing  
+
+---
+
+## 🤝 Contributing
+
+Fork → Clone → Improve → Pull Request  
+
+---
+
+## 👩‍💻 Author
+
+Laavanya Kushwaha  
+Web Development | AI | Machine Learning  
+
+---
+
+## ⭐ Support
+
+If you like this project:
+
+- Star the repo  
+- Fork it  
+- Share it  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+</p>
 
